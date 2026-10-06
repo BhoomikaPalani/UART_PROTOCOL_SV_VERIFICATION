@@ -1,0 +1,34 @@
+# Questa / ModelSim generated files
+work/
+sim/work/
+transcript
+sim/transcript
+*.wlf
+*.ucdb
+*.log
+*.vstf
+*.qdb
+*.qtl
+modelsim.ini
+sim/modelsim.ini
+
+# Coverage generated files
+mem_cov*
+sim/mem_cov*
+covhtmlreport/
+sim/covhtmlreport/
+
+# Vim swap files
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# Temporary files
+*.bak
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
